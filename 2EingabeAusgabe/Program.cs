@@ -51,13 +51,17 @@ namespace ConsoleOutput
 
             string FirstName = Console.ReadLine();
 
-            Console.WriteLine(FirstName);
+            
 
             Console.WriteLine("What is your Lastname?");
 
             string Lastname = Console.ReadLine();
 
+            Console.WriteLine("How old are you ?");
+
             string age = Console.ReadLine();
+
+            Console.WriteLine($"\n{FirstName} is {age} and his last name is {Lastname} ");
 
 
         }
