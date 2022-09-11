@@ -34,7 +34,7 @@ namespace ConsoleOutput
         }
     }
 }
-
+ 
 //A3
 using System;
  
