@@ -2,8 +2,8 @@
 
 Console.WriteLine($"size of short ={sizeof(short)}");
 Console.WriteLine($"size of short ={sizeof(short)}");
-Console.WriteLine($"nint.MinValue = {short.MinValue}");
-Console.WriteLine($"nint.MaxValue = {short.MaxValue}");
+Console.WriteLine($"short.MinValue = {short.MinValue}");
+Console.WriteLine($"short.MaxValue = {short.MaxValue}");
 
 Console.WriteLine($"size of int ={sizeof(int)}");
 Console.WriteLine($"size of int ={sizeof(int)}");
